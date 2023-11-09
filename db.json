@@ -1,0 +1,97 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "Me",
+      "url": "https://miro.medium.com/max/1080/1*j0dH-ec255aeIFd8eUVB_w.jpeg",
+      "embedLink": "https://www.youtube.com/embed/FuXNumBwDOM"
+    },
+    {
+      "id": "3",
+      "caption": "Lover",
+      "url": "https://studybreaks.com/wp-content/uploads/2019/08/67470811_919088761823152_4831598308700690600_n.jpg",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo"
+    },
+    {
+      "id": "1",
+      "caption": "Teardrops",
+      "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article13964214.ece/ALTERNATES/s482b/CY23295057-1.jpg",
+      "embedLink": "https://www.youtube.com/embed/xKCek6_dB0M"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Romantic songs",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "All too well",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmJjY2MyMTctZWYxMy00YzliLWIzN2UtODFmOGVmNTE1YzUwXkEyXkFqcGdeQXVyOTcxNTc5NTQ@._V1_.jpg",
+          "embedLink": "https://www.youtube.com/embed/tollGa3S0o8"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Tayler playlist",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Me",
+          "url": "https://miro.medium.com/max/1080/1*j0dH-ec255aeIFd8eUVB_w.jpeg",
+          "embedLink": "https://www.youtube.com/embed/FuXNumBwDOM"
+        },
+        {
+          "id": "3",
+          "caption": "Lover",
+          "url": "https://studybreaks.com/wp-content/uploads/2019/08/67470811_919088761823152_4831598308700690600_n.jpg",
+          "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Latest songs",
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Lover",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "timeStamp": "11/07/2023, 09:02:28 AM",
+      "id": 2
+    },
+    {
+      "caption": "Lover",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "timeStamp": "11/07/2023, 09:33:06 AM",
+      "id": 3
+    },
+    {
+      "caption": "Lover",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "timeStamp": "11/07/2023, 09:43:00 AM",
+      "id": 4
+    },
+    {
+      "caption": "Lover",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "timeStamp": "11/08/2023, 10:38:46 AM",
+      "id": 5
+    },
+    {
+      "caption": "Lover",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "timeStamp": "11/08/2023, 10:38:54 AM",
+      "id": 6
+    },
+    {
+      "caption": "Lover",
+      "embedLink": "https://www.youtube.com/embed/-BjZmE2gtdo",
+      "timeStamp": "11/08/2023, 10:43:33 AM",
+      "id": 7
+    }
+  ]
+}
